@@ -1,5 +1,5 @@
-# L6_DS_Apprenticeship
-Analysis conducted as part of my data science apprenticeship.
+# XXX Analysis
+Analysis of XXX, conducted as part of my data science apprenticeship.
 
 ## Overview
 - **Objective**: What problem does this solve?
