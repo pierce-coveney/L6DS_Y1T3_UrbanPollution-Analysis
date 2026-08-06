@@ -1,6 +1,7 @@
 # Note to developer:
-# A '.gitignore' file in your repository's root directory tells Git which files and directories to ignore when you make a commit. 
-# The .gitignore file is committed into this repository to share the ignore rules with other users who clone the repository.
+# "A .gitignore file in your repository's root directory tells Git which files and directories to ignore when you make a commit."
+# "The .gitignore file is committed into this repository to share the ignore rules with other users who clone the repository."
+# "GitHub maintains an official list of recommended .gitignore files for many popular operating systems, environments, and languages in the "github/gitignore" public repository."
 # Link: https://docs.github.com/en/get-started/git-basics/ignoring-files
 
 # Byte-compiled / optimized / DLL files
