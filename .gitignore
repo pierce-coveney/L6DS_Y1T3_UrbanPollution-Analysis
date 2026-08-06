@@ -4,6 +4,8 @@
 # "GitHub maintains an official list of recommended .gitignore files for many popular operating systems, environments, and languages in the "github/gitignore" public repository."
 # Link: https://docs.github.com/en/get-started/git-basics/ignoring-files
 
+# ----------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
