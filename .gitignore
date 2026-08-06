@@ -1,3 +1,8 @@
+# Note to developer:
+# A '.gitignore' file in your repository's root directory tells Git which files and directories to ignore when you make a commit. 
+# The .gitignore file is committed into this repository to share the ignore rules with other users who clone the repository.
+# Link: https://docs.github.com/en/get-started/git-basics/ignoring-files
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
