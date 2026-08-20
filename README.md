@@ -1,16 +1,16 @@
 # Global Urban Air Quality and Pollution Analysis
-Analysis of XXX, conducted as part of my data science apprenticeship.
+Analysis of pollution levels in the top 50 most populated industrial cities in the world, conducted as part of my data science apprenticeship.
 
 ## Overview
-- **Objective**: What problem does this solve?
-- **Dataset**: What data sources were used?
-- **Methods**: What techniques/algorithms were applied?
-- **Results**: Key findings and outcomes
+- **Objective**: To identify concerning trends in the past 12 months of urban air quality data, with a particular focus on pollutants known to pose significant risks to respiratory health.
+- **Dataset**: Kaggle (https://www.kaggle.com/datasets/iconicwasil/global-urban-air-quality-and-pollution-time-series/code)
+- **Methods**: EDA, OLS regression modelling.
+- **Results**: Riyadh has not only experienced the highest levels of pollutants sourced primarily from vehicle exhaust and smog and it is also presenting the largest upward trend in the pollutant of interest in the past 12 months.
 
 ## Technical Details
-- **Languages**: Python, SQL, etc.
-- **Libraries**: pandas, scikit-learn, matplotlib, etc.
-- **Tools**: Jupyter, Power BI, etc.
+- **Languages**: Python.
+- **Libraries**: pandas, seaborn, matplotlib, SciPy.
+- **Tools**: Jupyter.
 
 ## Structure
 - `data/`: Contains datasets (with appropriate anonymisation)
