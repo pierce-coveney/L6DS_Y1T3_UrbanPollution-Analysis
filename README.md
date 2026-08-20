@@ -1,4 +1,4 @@
-# XXX Analysis
+# Global Urban Air Quality and Pollution Analysis
 Analysis of XXX, conducted as part of my data science apprenticeship.
 
 ## Overview
